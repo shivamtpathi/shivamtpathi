@@ -1,5 +1,36 @@
-# 💫 About Me:
-👋 Hi, I’m Shivam Tripathi<br><br>🚀 React Native Developer<br>📱 Building production-ready mobile apps with 10K+ downloads<br>⚡ Focused on performance, scalability & clean UI/UX<br><br>👨‍💻 About Me<br><br>I’m a React Native Developer with 2+ years of professional experience in mobile application development.<br><br>I love working on:<br><br>📱 Cross-platform mobile apps (Android & iOS)<br><br>⚙️ Performance optimization & clean architecture<br><br>🔌 REST API & backend integrations<br><br>🧩 Reusable components & scalable codebases<br><br>I believe in writing clean, maintainable code that scales well in production.<br><br>🛠 Tech Stack<br><br>Languages<br>JavaScript • TypeScript • HTML • CSS<br><br>Mobile & Frontend<br>React Native • Expo • Redux • React.js • Tailwind CSS<br><br>Backend<br>Node.js • Express.js • MongoDB<br><br>Tools & Platforms<br>Git • GitHub • REST APIs • Postman • VS Code<br>Android Studio • Xcode<br><br>🚀 Featured Projects<br>📱 BellMe – Smart Task & Reminder App<br><br>Built a smart task & reminder app with advanced notifications<br><br>Integrated Notifee for intelligent alerts<br><br>Achieved 10K+ downloads on Google Play Store<br>Tech: React Native, Redux, Directus<br><br>🌐 Audience Pool (SDLC Corp)<br><br>Social engagement platform for brands and users<br><br>Features: posts, likes, shares, campaigns, tenders<br><br>Deployed & maintained on Android and iOS<br>Tech: React Native, Node.js, REST APIs<br><br>🎬 Movisy App<br><br>Movie browsing, rating & review application<br><br>Built 15+ production-ready screens<br><br>Improved navigation flow & UI performance<br>Tech: React Native, REST APIs<br><br>💼 Experience Snapshot<br><br>💻 Software Developer (Mobile) — SDLC Corp<br><br>🏥 App Developer — Nurtureheal Healthcare<br><br>🚀 React Native Developer — Freelance / Contract<br><br>Worked on real production apps with thousands of users and strict performance requirements.<br><br>🎯 What I Focus On<br><br>Clean & scalable app architecture<br><br>Performance-optimized UI<br><br>Production-ready code<br><br>Real-world problem solving<br><br>📫 Let’s Connect<br><br>📧 Email: shivamtpathi@gmail.com<br><br>💼 LinkedIn: linkedin.com/in/shivam-tripathi2000<br>🧑‍💻 GitHub: github.com/shivamtpathi<br><br>⭐ If you like my work, feel free to explore my repositories or connect with me!
+💫 About Me
+
+👋 Hi, I’m Shivam Tripathi
+🚀 React Native Developer | 2+ years experience
+📱 Built production-ready mobile apps with 10K+ downloads
+⚡ Focused on performance, scalability & clean UI/UX
+
+👨‍💻 What I Do
+
+📱 Cross-platform mobile apps (Android & iOS)
+
+⚙️ Clean architecture & performance optimization
+
+🔌 REST API & backend integrations
+
+🛠 Tech Stack
+
+React Native • JavaScript • TypeScript • Redux
+Node.js • Express.js • MongoDB
+Git • GitHub • REST APIs
+
+🚀 Projects
+
+📱 BellMe – Smart task & reminder app (10K+ downloads)
+🌐 Audience Pool – Social engagement platform
+🎬 Movisy App – Movie browsing & rating app
+
+📫 Connect
+
+💼 LinkedIn: linkedin.com/in/shivam-tripathi2000
+🧑‍💻 GitHub: github.com/shivamtpathi
+
+⭐ Open to exciting opportunities.
 
 
 # 💻 Tech Stack:
