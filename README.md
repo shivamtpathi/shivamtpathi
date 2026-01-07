@@ -5,20 +5,6 @@
 📱 Built production-ready mobile apps with 10K+ downloads
 ⚡ Focused on performance, scalability & clean UI/UX
 
-👨‍💻 What I Do
-
-📱 Cross-platform mobile apps (Android & iOS)
-
-⚙️ Clean architecture & performance optimization
-
-🔌 REST API & backend integrations
-
-🛠 Tech Stack
-
-React Native • JavaScript • TypeScript • Redux
-Node.js • Express.js • MongoDB
-Git • GitHub • REST APIs
-
 🚀 Projects
 
 📱 BellMe – Smart task & reminder app (10K+ downloads)
